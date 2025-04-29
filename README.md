@@ -9,6 +9,10 @@ The QSR Analytics Dashboard is an advanced Power BI solution designed to provide
 🌍 Location-Wise Comparisons – Visual map-based analysis to identify top and underperforming outlets
 🧠 Dynamic DAX Conditions – Built-in logic to handle nulls, empty strings, and advanced KPIs
 
+#Preview Image:-
+![image](https://github.com/user-attachments/assets/cffee1af-4455-4ad5-affd-2e96d7af2b8c)
+
+
 The dashboard is interactive, intuitive, and designed with business users in mind — whether it’s for executives, restaurant managers, or marketing analysts. It supports filtering by time period, outlet, category, and more.
 
 # 🛠 Tools & Technologies
@@ -39,4 +43,6 @@ The dashboard is interactive, intuitive, and designed with business users in min
 -YOY % NR: -13.85% (Year-over-Year Net Revenue decrease)
 -NR YTD:9.25M (Net Revenue Year-to-Date)
 -YoY % NR: 25.44% (Year-over-Year Net Revenue increase)
+
+
 
